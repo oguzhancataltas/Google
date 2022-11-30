@@ -1,0 +1,39 @@
+.box {
+    display: block;
+    text-align: -webkit-center;
+    padding-bottom: 0;
+}
+.container {
+    width: 1000px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* margin: 0 auto 0 auto; */
+    margin: 50px auto 0;
+}
+
+
+.left-bar {
+    width: 300px;
+    height: 100px;
+    float: left;
+    margin-left: 5px;
+    padding: auto;
+}
+.padding {
+    padding-top: 10px;
+}
+.clearfix {
+    clear:both;
+}
+
+.bg-aqua {
+    background-color: aqua;
+}
+.bg-aqua1 {
+    background-color: rgb(112, 204, 194)
+}
+.bg-aqua2 {
+    background-color: rgb(98, 179, 170);
+}
+
+
